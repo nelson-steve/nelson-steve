@@ -1,6 +1,6 @@
 <h2 align="center"> I'm Nelson Steve </h2>
 
-Interests
+## Interests
 - Graphics programming
 - Machine Learning
 - Programming languages development
