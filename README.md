@@ -1,4 +1,4 @@
-<h2> Welcome </h2>
+# Welcome
 I am Nelson Steve
 ## Interests
 - Graphics programming
