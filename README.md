@@ -1,6 +1,6 @@
 ## I am Nelson Steve
 Passionate about working on large scale problems
-My interests
+### My interests
 - Graphics programming
 - Machine learning
 - Mobile development
