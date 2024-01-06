@@ -7,5 +7,3 @@ I am Nelson Steve
 - Mobile development
 ## Languages
 C++, C, Rust, Python, Dart, Lua, C#, Javascript
-## Frameworks
-Angular, Flutter
